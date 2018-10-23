@@ -1,6 +1,6 @@
 # cherry-pick-bot
 
-> A GitHub App built with [Probot](https://probot.github.io) that Use Github API info to automatically create a cherry-picked PR for Exabeam
+> A GitHub App built with [Probot](https://probot.github.io) that will use the Github API to automate cherry picking
 
 ## Setup
 

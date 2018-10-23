@@ -1,7 +1,7 @@
 {
   "name": "cherry-pick-bot",
   "version": "1.0.0",
-  "description": "Use Github API info to automatically create a cherry-picked PR for Exabeam",
+  "description": "Use Github API info to automatically create a cherry-picked PR",
   "author": "Albert Guo &lt;aguo@exabeam.com&gt;",
   "license": "ISC",
   "repository": "https://github.com/albert-guo-exa/cherry-pick-bot.git",
