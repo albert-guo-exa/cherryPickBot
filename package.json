@@ -4,9 +4,9 @@
   "description": "Use Github API info to automatically create a cherry-picked PR",
   "author": "Albert Guo &lt;aguo@exabeam.com&gt;",
   "license": "ISC",
-  "repository": "https://github.com/albert-guo-exa/cherry-pick-bot.git",
-  "homepage": "https://github.com/albert-guo-exa/cherry-pick-bot",
-  "bugs": "https://github.com/albert-guo-exa/cherry-pick-bot/issues",
+  "repository": "https://github.com/albert-guo-exa/cherryPickBot.git",
+  "homepage": "https://github.com/albert-guo-exa/cherryPickBot",
+  "bugs": "https://github.com/albert-guo-exa/cherryPickBot/issues",
   "keywords": [
     "probot",
     "github",
