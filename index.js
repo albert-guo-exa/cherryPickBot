@@ -5,7 +5,11 @@
 module.exports = app => {
   // Your code here
   app.log('Yay, the app was loaded!')
-
+  app.on('pull_request.merged', async context => {
+    var cherryPickBranch = null;
+    var merged_commit = null;
+    var pullRequestBody = null;
+  })
   app.on('issues.opened', async context => {
     const issueComment = context.issue({ body: 'Thanks for opening this issue!' });
     return context.github.issues.createComment(issueComment);
